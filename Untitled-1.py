@@ -1,0 +1,2 @@
+"helloMike".find("Mike")
+
